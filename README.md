@@ -40,6 +40,11 @@ I have completed university studies in Systems Engineering with a focus on Data 
   Credential ID: UC-ac61f042-b074-498f-a596-de102c2988bf  
   Skills: Web Scraping, Python, Pandas, Selenium
 
+- **Scrum Fundamentals Certified (SFC)**  
+  *SCRUMstudy - Accreditation Body for Scrum and Agile*  
+  Issued: December 2024
+  Skills: Scrum, Agile Methodologies
+
 - **NDG Linux Unhatched**  
   *Cisco Networking Academy*  
   Issued: December 2022  
