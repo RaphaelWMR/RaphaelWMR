@@ -79,7 +79,7 @@ I have completed university studies in Systems Engineering with a focus on Data 
 
 ## 📞 Contact Me
 - Email: [matosramosraphael@gmail.com](mailto:matosramosraphael@gmail.com)
-- LinkedIn: [Raphael Matos](https://www.linkedin.com/in/raphaelmatos-ramos)
+- LinkedIn: [Raphael Matos](https://www.linkedin.com/in/raphael-matos-ramos/)
 
 ---
 
