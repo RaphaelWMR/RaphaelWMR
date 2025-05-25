@@ -2,7 +2,7 @@
 ## Beginner in Data Analysis
 
 ## 🎓 About Me
-I have completed university studies in Systems Engineering with a focus on Data Analytics, SQL, Python, Power BI, and Excel. I have gained experience in both the private and public sectors, working in multidisciplinary teams. My professional background includes roles in technical support, data optimization, and process automation. Currently, I am working on improving data management systems, and I’m passionate about leveraging technology to drive decision-making and optimize workflows.
+Bachelor’s degree in Systems Engineering with a focus on Data Analytics, SQL, Python, Power BI, and Excel. I have gained experience in both the private and public sectors, working in multidisciplinary teams. My professional background includes roles in technical support, data optimization, and process automation. Currently, I am working on improving data management systems, and I’m passionate about leveraging technology to drive decision-making and optimize workflows.
 
 ## 📚 Education
 - **Systems Engineering**  
@@ -16,6 +16,12 @@ I have completed university studies in Systems Engineering with a focus on Data 
 
 ## 🏆 Certifications
 
+- **Advanced Transact-SQL (T-SQL) : Stored Procedures |Functions**  
+  *Udemy*  
+  Issued: December 2024  
+  Credential ID: UC-67ce733a-1029-4812-96f3-5e45c754b01d
+  Skills: SQL, Stored Procedures, Transact-SQL
+  
 - **Data Analysis with Power BI**  
   *Campus Romero*  
   Issued: December 2024  
@@ -73,8 +79,6 @@ I have completed university studies in Systems Engineering with a focus on Data 
   Issued: December 2024  
   Credential ID: 0001808-2024-OESI/UNMSM 1088KKZ  
   Skills: English as a Foreign Language
-
-
 
 
 ## 📞 Contact Me
